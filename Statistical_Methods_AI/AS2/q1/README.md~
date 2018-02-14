@@ -1,0 +1,10 @@
+Letter classification
+
+Best Hyperparameter Setting:
+
+C(Penalty parameter) =10 
+Kernel =’rbf’
+Degree(for polynomial kernel) =3
+Kernel coefficient =1/n_features
+Tolerance for stopping criterion =0.001
+
